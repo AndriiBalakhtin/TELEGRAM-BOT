@@ -9,12 +9,12 @@ namespace TelegramBOT
 
         // This is a free code to use: //--------------//
         // By Andrii Balakhtin in 2025-04-02           //
-        // link https://github.com/AndriiBalakhtin     //
+        // Link https://github.com/AndriiBalakhtin     //
         //---------------------------------------------//
 
         // REQUIRED: //-------------------------------------------------------------------------------------------------------------------------------------------------------------------//
-          private readonly string[] userIds = { "User-ID" };   // follow the link https://web.telegram.org/k/#@LeadConverterToolkitBot and use the command /get_my_id (and take the ID)   //
-          private readonly string botToken  = "BOT-TOKEN-API"; // folow the link https://web.telegram.org/k/#@BotFather and use the command /newbot (and take the token)                  //
+          private readonly string[] userIds = { "User-ID" };   // Follow the link https://web.telegram.org/k/#@LeadConverterToolkitBot and use the command /get_my_id (and take the ID)   //
+          private readonly string botToken  = "BOT-TOKEN-API"; // Follow the link https://web.telegram.org/k/#@BotFather and use the command /newbot (and take the token)                 //
         //--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 
         // DOCS: //------------====------------------------//
